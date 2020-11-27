@@ -1,0 +1,7 @@
+<%@page contentType="text/css" %>
+/* Load Daimler Custom Fonts if not installed */
+@font-face {
+ font-family: CorpoA;
+ local: CorpoA;
+ src: url(DaimlerCA-Regular.woff) ;
+}
